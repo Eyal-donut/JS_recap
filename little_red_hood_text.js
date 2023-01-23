@@ -2,3 +2,6 @@ const testText1 = "Once upon a time there was a dear little girl who was loved b
 
 const testText2 = "Once upon a time there was a dear little girl"
 
+
+let characters = [...testText1];
+console.log(characters.length);
