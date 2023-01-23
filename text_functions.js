@@ -15,6 +15,7 @@ const wordCount = (text) => {
   }
   return wordCounter;
 };
+
 console.log(wordCount(testText2));
 
 const sentenceCount = (text) => {
