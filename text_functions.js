@@ -55,3 +55,8 @@ let characters = [...testText1];
 let noSpaces = testText1.split('').filter(x=>x!==' ')
 console.log(noSpaces.length);
 }
+
+
+let characters = [...testText1];
+let noSpaces = testText1.split('').filter(x=>x!==' ')
+console.log(noSpaces.length);
